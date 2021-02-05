@@ -1,0 +1,91 @@
+.container-fluid {
+  padding: 4rem;
+  background-color: #010101;
+}
+.row {
+  background-color: #7c9473;
+  padding: 2rem;
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+
+.figure-caption {
+  font-family: "Fjalla One", sans-serif;
+  text-align: center;
+  color: #222831;
+}
+.fluidb {
+  color: aqua;
+}
+
+#title {
+  position: relative;
+  background-image: url("Images/background.jpg");
+}
+.row2 {
+  margin-bottom: 2rem;
+}
+
+.hp {
+  position: absolute;
+  height: 150px;
+  width: 150px;
+  border-radius: 100px;
+  right: 4rem;
+  top: 8rem;
+  bottom: 0;
+  border: #010101;
+}
+
+.row1 {
+  background-color: #0028ff;
+
+  padding: 6rem;
+}
+
+p {
+  font-family: "Abril Fatface", cursive;
+  font-size: 75px;
+  color: #010101;
+}
+
+#TRILOGY {
+  margin: 2rem;
+}
+.logy {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  border: #7c9473;
+}
+h3 {
+  font-family: "Abril Fatface", cursive;
+  padding-top: 4rem;
+  color: #7c9473;
+  text-align: center;
+}
+.heading1 {
+  font-family: "Abril Fatface", cursive;
+  text-align: center;
+  color: #7c9473;
+}
+
+.rowt {
+  margin-bottom: 1rem;
+  color: #cfe5cf;
+}
+
+.col1 {
+  padding-left: 3rem;
+}
+
+#rowk {
+  margin-bottom: 1rem;
+  background-color: #0da85b;
+} 
+#rowB{ 
+  margin-bottom: 1rem;
+  background-color: #585a59;
+} 
+}
